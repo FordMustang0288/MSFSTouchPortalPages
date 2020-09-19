@@ -1,6 +1,6 @@
 MSFSTouchPortalPages
 
-*Please move all .tml files to %appdata%/Roaming/TouchPortal/pages and all icons into %appdata%/Roaming/TouchPortal/icons
+*Please copy all .tml files in the pages/ folder to %appdata%/Roaming/TouchPortal/pages and all icons in the icons/ folder into %appdata%/Roaming/TouchPortal/icons
 
 *Restart TouchPortal
 
