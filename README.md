@@ -1,5 +1,7 @@
 # MSFSTouchPortalPages
 
+<img src="https://user-images.githubusercontent.com/31976175/94336558-3663e780-ffb2-11ea-872a-36ae009ab90f.png" width="400px" height="300px">
+
 ### Background
 You must be using version 0.4.0 of the MSFSTouchPortalPlugin (https://github.com/tlewis17/MSFSTouchPortalPlugin).
 - I will specify which version that this project is based on
