@@ -4,12 +4,13 @@
 
 ### Background
 You must be using version 0.5.0 of the MSFSTouchPortalPlugin (https://github.com/tlewis17/MSFSTouchPortalPlugin).
-- I will specify which version that this project is based on
-- Pages in MSFSTouchPortalPages are and will become **more dependent** on MSFSTouchPortalPlugin as functionality of that project increases
 
 The MSFSTouchPortalPlugin referenced above starts %appdata%\Roaming\TouchPortal\plugins\MSFS-TouchPortal-Plugin\dist\MSFSTouchPortalPlugin.exe
 - This executable is in charge of communicating with MSFS via SimConnect
 - This connection provides an API to retrieve/drive events from MSFS
+
+The "Launch OpenTrack & FSJumpStart" button is dependent on https://github.com/AmbitiousPilots/FSJumpStarter2020
+- Please download this exe and edit the "Launch OpenTrack & FSJumpStart" buttton to reference the correct path
 
 ### Instructions
 - Close TouchPortal
@@ -27,3 +28,8 @@ The MSFSTouchPortalPlugin referenced above starts %appdata%\Roaming\TouchPortal\
 - Click on the button to open the button editor
 - In the sidepanel choose Navigation ->  (Action) Go To Page 
 - From the dropdown choose msfstpp_main
+
+### Credits
+Thanks to tlewis17 for the cooperative work that is in place between this project and https://github.com/tlewis17/MSFSTouchPortalPlugin
+Thanks to AmbitiousPilots for the tool to skip the "Press Any Button" screen https://github.com/AmbitiousPilots/FSJumpStarter2020
+
