@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/31976175/94336558-3663e780-ffb2-11ea-872a-36ae009ab90f.png" width="400px" height="300px">
 
 ### Background
-You must be using version 0.5.0 of the MSFSTouchPortalPlugin (https://github.com/tlewis17/MSFSTouchPortalPlugin).
+You must be using version 0.5.1 of the MSFSTouchPortalPlugin (https://github.com/tlewis17/MSFSTouchPortalPlugin).
 
 The MSFSTouchPortalPlugin referenced above starts %appdata%\Roaming\TouchPortal\plugins\MSFS-TouchPortal-Plugin\dist\MSFSTouchPortalPlugin.exe
 - This executable is in charge of communicating with MSFS via SimConnect
